@@ -11,13 +11,12 @@ h1 {
   text-transform: uppercase;
 }
 
-#first {
-  margin-top: 10%;
+div{
   text-align: center;
   width: 50%;
   margin-left: 25%;
 }
 
-#second{
-  width: 20%;
+#first{
+  margin-top: 10%;
 }
